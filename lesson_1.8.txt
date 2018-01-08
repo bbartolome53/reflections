@@ -1,0 +1,29 @@
+Having access to the entire history of a file helps you review your 
+mistakes and learn from them.
+
+Manual Commits
+
+The problem with manually choosing when to commit is user error. You may 
+occasionally forget to make commits when you need to, espcially when you 
+are extremely busy. Also, when you make manual commits instinctively, 
+there is the possibility of making too many.
+
+Multi-File Commits
+
+Some VCSs focus on multiple file commits because they have a shared relationship. It makes sense to save all the changes together because the changes affect each other. Other services don't support multi-file commits because it's unnecessary. A Google Doc file that is changed isn't necessarily related to other documents in the repository, and the commit process only wastes resources and possibly bandwidth.
+
+Using Git to View History
+
+The command git log shows a history of files, while git diff can provide details of changes between commits.
+
+Confidence from Version Control
+
+Having the ability to switch back to an older version helps me more confident about making broad sweeping changes in a project, because there is an option to revert back if needed.
+
+How do you want to use GIT?
+
+I want to use Git version control to manage versions of documents.
+
+Initializing a repository
+
+When you run the command git init, metadata indicating it's a git repository is added and work can begin for version control tasks.

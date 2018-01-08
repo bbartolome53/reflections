@@ -1,0 +1,3 @@
+The command diff -u is used in Linux, while Windows has a different command.
+
+Diff compared two files automatically and helped cut down time to look for it. 
