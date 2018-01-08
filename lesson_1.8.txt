@@ -30,4 +30,4 @@ When you run the command git init, metadata indicating it's a git repository is 
 
 Staging Area
 
-The staging area is a holding area prior to changes being applied to files in a Git repository. It is a mechanism that helps users manage changes to files before they are made permanent.
+The staging area is a holding area prior to changes being applied to files in a Git repository. It is a mechanism that helps users manage changes to files before they are made permanently applied to the files in Git repository.
