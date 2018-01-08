@@ -27,3 +27,7 @@ I want to use Git version control to manage versions of documents.
 Initializing a repository
 
 When you run the command git init, metadata indicating it's a git repository is added and work can begin for version control tasks.
+
+Staging Area
+
+The staging area is a holding area prior to changes being applied to files in a Git repository. It is a mechanism that helps users manage changes to files before they are made permanent.
