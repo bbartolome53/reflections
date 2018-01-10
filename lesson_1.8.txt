@@ -31,3 +31,11 @@ When you run the command git init, metadata indicating it's a git repository is 
 Staging Area
 
 The staging area is a holding area prior to changes being applied to files in a Git repository. It is a mechanism that helps users manage changes to files before they are made permanently applied to the files in Git repository.
+
+Commit Size
+
+Using the staging area and git diff --staged, you can check the size of your commit and review if the change is a logical change.
+
+When to use branches
+
+Branches can be useful when you need more than one version of a project or file, or you want to test a particular change.
