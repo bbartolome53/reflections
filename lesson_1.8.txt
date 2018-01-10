@@ -39,3 +39,11 @@ Using the staging area and git diff --staged, you can check the size of your com
 When to use branches
 
 Branches can be useful when you need more than one version of a project or file, or you want to test a particular change.
+
+Visualizing with diagrams
+
+Diagrams help you understand where you are and how much work was done for a particular branch in your Git repository.
+
+Merging two branches
+
+When you merge two branches, commits in one branch are combined with commits in another, resulting in one unified branch.
