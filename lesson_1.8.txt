@@ -47,3 +47,7 @@ Diagrams help you understand where you are and how much work was done for a part
 Merging two branches
 
 When you merge two branches, commits in one branch are combined with commits in another, resulting in one unified branch.
+
+Automatic vs manual merging
+
+Automatic merging is convenient and avoids unnecessary work. Merging manually ensures you know exactly what you want to merge, but is prone to human error. Automatic merging is more efficient, but the outcome may not always be what the developer expects. 
