@@ -51,3 +51,7 @@ When you merge two branches, commits in one branch are combined with commits in 
 Automatic vs manual merging
 
 Automatic merging is convenient and avoids unnecessary work. Merging manually ensures you know exactly what you want to merge, but is prone to human error. Automatic merging is more efficient, but the outcome may not always be what the developer expects. 
+
+Remote Repository vs Local
+
+A remote repository is useful if you use multiple systems to work on your project, or there are other contributors to the project who need to access the content.
