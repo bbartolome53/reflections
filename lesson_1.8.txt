@@ -55,3 +55,7 @@ Automatic merging is convenient and avoids unnecessary work. Merging manually en
 Remote Repository vs Local
 
 A remote repository is useful if you use multiple systems to work on your project, or there are other contributors to the project who need to access the content.
+
+Pull changes automatically
+
+Automatic pull changes automatically might interrupt the work you are currently doing.
