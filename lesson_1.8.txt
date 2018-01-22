@@ -59,3 +59,7 @@ A remote repository is useful if you use multiple systems to work on your projec
 Pull changes automatically
 
 Automatic pull changes automatically might interrupt the work you are currently doing.
+
+Forks, Clones, Branches
+
+Forks are useful when you want to tinker on a project of another user. Clones is useful if you want to work on your local repository, and branches can be used to experiment on changes on your local repository without having to update the remote version.
