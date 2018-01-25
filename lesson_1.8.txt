@@ -63,3 +63,7 @@ Automatic pull changes automatically might interrupt the work you are currently 
 Forks, Clones, Branches
 
 Forks are useful when you want to tinker on a project of another user. Clones is useful if you want to work on your local repository, and branches can be used to experiment on changes on your local repository without having to update the remote version.
+
+Local copies of remote branches
+
+If you have a local copy of the last known state of the remote stored locally, you can check the current version of the remote anytime even if you're not online or have no access to the remote.
